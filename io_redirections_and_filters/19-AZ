@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | tr ["Ac"] "ze"
+sort | tr ["Ac"] "Ze"
