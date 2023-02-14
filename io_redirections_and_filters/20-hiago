@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | tr Cc -d
+sort | tr "Cc" -d
