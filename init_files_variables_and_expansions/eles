@@ -1,0 +1,21 @@
+total 76
+-rwxr-xr-x 1 root root 28 Feb 14 07:37 0-alias
+-rwxr-xr-x 1 root root 37 Feb 14 09:09 10-love_exponent_breath
+-rwxr-xr-x 1 root root 32 Feb 14 09:25 11-binary_to_decimal
+-rwxr-xr-x 1 root root 62 Feb 14 09:38 12-combinations
+-rwxr-xr-x 1 root root 33 Feb 14 13:27 13-print_float
+-rwxr-xr-x 1 root root 35 Feb 14 13:33 14-decimal_to_hexadecimal
+-rwxr-xr-x 1 root root 39 Feb 14 13:56 15-rot13
+-rw-r--r-- 1 root root 30 Feb 14 15:23 16-odd
+-rwxr-xr-x 1 root root 31 Feb 14 07:42 1-hello_you
+-rwxr-xr-x 1 root root 38 Feb 14 07:59 2-path
+-rwxr-xr-x 1 root root 45 Feb 14 13:48 3-paths
+-rwxr-xr-x 1 root root 28 Feb 14 08:17 4-global_variables
+-rwxr-xr-x 1 root root 16 Feb 14 08:25 5-local_variables
+-rwxr-xr-x 1 root root 24 Feb 14 08:31 6-create_local_variable
+-rwxr-xr-x 1 root root 33 Feb 14 08:42 7-create_global_variable
+-rwxr-xr-x 1 root root 41 Feb 14 09:03 8-true_knowledge
+-rwxr-xr-x 1 root root 39 Feb 14 09:06 9-divide_and_rule
+-rwxr-xr-x 1 root root 49 Feb 14 07:38 git
+-rw-r--r-- 1 root root  0 Feb 14 15:25 ls
+-rw-r--r-- 1 root root 36 Feb 14 07:39 README.md
