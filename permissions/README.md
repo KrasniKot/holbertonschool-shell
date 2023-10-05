@@ -2,59 +2,59 @@
 
 ## Tasks:
 
-### task 0 My name is Betty:
+### Task 0 My name is Betty:
 Create a script that switches the current user to the user `betty`.
 * You should use exactly 8 characters for your command (+1 character for the new line)
 * You can assume that the user `betty` will exist when we will run your script
 
-### task 1 Who am I:
+### Task 1 Who am I:
 Write a script that prints the effective username of the current user.
 
-### task 2 Groups:
+### Task 2 Groups:
 Write a script that prints all the groups the current user is part of.
 
-### task 3 New owner:
+### Task 3 New owner:
 Write a script that changes the owner of the file `hello` to the user `betty`.
 
-### task 4 Empty!:
+### Task 4 Empty!:
 Write a script that creates an empty file called `hello`.
 
-### task 5 Execute:
+### Task 5 Execute:
 Write a script that adds execute permission to the owner of the file `hello`.
 
-### task 6 Multiple permissions:
+### Task 6 Multiple permissions:
 Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file `hello`.
 
-### task 7 Everybody!:
+### Task 7 Everybody!:
 Write a script that adds execution permission to the owner, the group owner and the other users, to the file `hello`.
 
-### task 8 James Bond:
+### Task 8 James Bond:
 Write a script that sets the permission to the file `hello` as follows:
 * Owner: no permission at all
 * Group: no permission at all
 * Other users: all the permissions
 
-### task 9 John Doe:
+### Task 9 John Doe:
 Write a script that sets the mode of the file `hello` to this:
 `-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello`
 
-### task 10 Look in the mirror:
+### Task 10 Look in the mirror:
 Write a script that sets the mode of the file `hello` the same as `olleh`’s mode.
 
-### task 11 Directories:
+### Task 11 Directories:
 Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
-### task 12 More directories:
+### Task 12 More directories:
 Create a script that creates a directory called `my_dir` with permissions 751 in the working directory.
 
-### task 13 Change group:
+### Task 13 Change group:
 Write a script that changes the group owner to `school` for the file `hello`.
 
-### task 14 Owner and group:
+### Task 14 Owner and group:
 Write a script that changes the owner to `vincent` and the group owner to `staff` for all the files and directories in the working directory.
 
-### task 15 Symbolic links:
+### Task 15 Symbolic links:
 Write a script that changes the owner and the group owner of `_hello` to `vincent` and `staff` respectively.
 
-### task 16 If only:
+### Task 16 If only:
 Write a script that changes the owner of the file `hello` to `vincent` only if it is owned by the user `guillaume`.
