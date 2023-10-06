@@ -2,7 +2,6 @@
 
 ## Tasks:
 
-
 ### Task 0 Hello World:
 Write a script that prits "Hello, World", followed by a new line to the standard output.
 
@@ -33,4 +32,21 @@ Write a script that writes into the file `ls_cwd_content` the result of the comm
 ### Task 9 Duplicate last line:
 Write a script that duplicates the last line of the file `iacta`.
 
-### Task 10 :### Task 11 :### Task 12 :### Task 13 :### Task 14 :### Task 15 :### Task 16 :### Task 17 :### Task 18 :### Task 19 :### Task 20 :### Task 21 :### Task 22 :
+### Task 10 No more javascript:
+Write a script that deletes all the regular files (no the directories with a `.js` extension that are present in the current directory and all its subfolders.
+
+### Task 11 Don't just count your directories, make your directories count:
+Write a script that counts the number of directories and sub-directories in the current directory.  
+* The current and parent directories should not be taken into account
+* Hidden directories should be counted
+
+### Task 12 What's new:
+Create a script that displays the 10 newest files in the current directory.
+
+### Task 13 Being unique is better than being perfect:
+Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+### Task 14 It must be in that file:
+Display lines containing the pattern "root" from the `/etc/passwd`
+
+### Task 15 :### Task 16 :### Task 17 :### Task 18 :### Task 19 :### Task 20 :### Task 21 :### Task 22 :
