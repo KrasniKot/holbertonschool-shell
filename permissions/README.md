@@ -58,3 +58,6 @@ Write a script that changes the owner and the group owner of `_hello` to `vincen
 
 ### Task 16 If only:
 Write a script that changes the owner of the file `hello` to `vincent` only if it is owned by the user `guillaume`.
+
+#### Done:
+* 17 of 17

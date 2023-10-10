@@ -56,12 +56,22 @@ Create a script that prints all possible combinations of two letters, except `oo
 Write a script that prints a number of two decimal places, followed by a new line
 * The number will be stored in the environment variable `NUM`
 
-### Task 14
+### Task 14 Decimal to Hexadecimal:
+Write a script that converts a number from base 10 to base 16
+* The number in base 10 is stored in the environment variable `DECIMAL`
+* The script should display the number in base 16, followed by a new line
 
-### Task 15
+### Task 16 Everyone is a proponent of strong encryption:
+Write a script that encodes and decodes text using the rot 13 encryption. Assyme ASCII.
 
-### Task 16
+### Task 17 The eggs of the brood need to be an odd number:
+Write a script that prints every other line from the input, starting with the first line.
 
-### Task 17
+### Task 18 I'm an instant star. Just add water and stir.:
+Write a shell script that adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result.
+* `WATER` is in base `water`
+* `STIR` is in base `stir.`
+* The result should be in base `bestchol`
 
-### Task 18
+#### Done:
+* 18 of 15

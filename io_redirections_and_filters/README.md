@@ -73,3 +73,6 @@ Write a script that reverse its input
 ### Task 22 DJ Cut Killer:
 Write a script that displays all the users and their home directories, sorted by users.
 * Bassed on the file `/etc/passwd`
+
+#### Done:
+* 22 of 22
